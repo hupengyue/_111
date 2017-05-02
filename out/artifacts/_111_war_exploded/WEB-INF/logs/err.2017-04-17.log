@@ -1,0 +1,1 @@
+ERROR http-nio-8080-exec-5 [2017-04-17 14:13:27] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:131) : Table 'xiyou2.article' doesn't exist

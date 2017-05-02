@@ -1,0 +1,1 @@
+ERROR http-nio-8080-exec-5 [2017-04-22 18:19:30] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:131) : Invalid value for getInt() - 'newAddress1'
